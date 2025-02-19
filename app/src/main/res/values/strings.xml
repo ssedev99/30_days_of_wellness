@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Days Of Wellness</string>
+    <string name="app_name_plus">30 Days Of Wellness</string>
+
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+    <string name="day_8">Day 8</string>
+    <string name="day_9">Day 9</string>
+    <string name="day_10">Day 10</string>
+
+
+    <string name="day_1_title">Mindful Morning Routine</string>
+    <string name="day_2_title">Deep Sleep Ritual</string>
+    <string name="day_3_title">Daily Gratitude Journal</string>
+    <string name="day_4_title">Digital Detox Break</string>
+    <string name="day_5_title">Hydration Reminder</string>
+    <string name="day_6_title">Mindful Breathing Exercise</string>
+    <string name="day_7_title">Nourishing Meal Inspiration</string>
+    <string name="day_8_title">Movement &amp; Stretch Break</string>
+    <string name="day_9_title">Self-Care Check-In</string>
+    <string name="day_10_title">Evening Reflection &amp; Unwind</string>
+
+    <string name="day_1_description">Start your day with intention. A few minutes of stretching, deep breathing, and goal-setting can set a positive tone for the rest of the day.</string>
+    <string name="day_2_description">Create a nighttime routine that promotes restful sleep. Try herbal tea, calming music, and reducing screen time before bed.</string>
+    <string name="day_3_description">Cultivate a positive mindset by noting three things you’re grateful for each day. Small moments of gratitude can lead to a happier life.</string>
+    <string name="day_4_description">Unplug from screens and reconnect with the present moment. Taking regular breaks from digital devices can improve focus and reduce stress.</string>
+    <string name="day_5_description">Stay hydrated throughout the day. Drinking enough water boosts energy, improves skin health, and enhances overall well-being.</string>
+    <string name="day_6_description">Take a deep breath in, hold, and slowly exhale. Practicing mindful breathing helps reduce anxiety and promotes relaxation.</string>
+    <string name="day_7_description">Fuel your body with wholesome, balanced meals. Explore new healthy recipes that nourish both body and mind.</string>
+    <string name="day_8_description">Move your body to release tension and boost circulation. A quick stretch or a short walk can do wonders for your energy levels.</string>
+    <string name="day_9_description">Take a moment to check in with yourself. Are you feeling overwhelmed? Prioritize self-care by engaging in an activity that brings you joy.</string>
+    <string name="day_10_description">Wind down your day with quiet reflection. Journaling or meditation can help process emotions and prepare for a restful night.</string>
+
+</resources>
